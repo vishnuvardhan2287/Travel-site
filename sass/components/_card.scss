@@ -46,6 +46,8 @@
         background-size: cover;
         height:23rem;
         background-blend-mode: screen;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
         clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 
         &--1{
